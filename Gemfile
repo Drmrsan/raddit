@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 
+gem 'simple_form', '~> 3.2'
 
 gem 'acts_as_votable', '~> 0.10.0'
 
